@@ -1,0 +1,12 @@
+{
+    "user": {
+        "User": "usha",
+        "Password": "Usha@123"
+    },
+    "profile": {
+        "Description": "ghjkl",
+        "Gender": "fghjk",
+        "Birth Date": 4567,
+        "Hobbies": "fghjk"
+    }
+}
